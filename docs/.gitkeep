@@ -1,0 +1,37 @@
+# Data Source
+
+## Dataset
+
+This project uses the **Wine Tasting Dataset** provided by **Maven Analytics Data Playground**.
+
+The dataset was used to build an interactive Power BI dashboard for analyzing global wine trends, pricing, ratings, wineries, and reviewer activity.
+
+## Dataset Information
+
+- Total Wine Reviews: 120,913
+- Countries Covered: 42
+- Wineries: 15,820
+- Wine Varieties: 692
+- Fields Used:
+  - Country
+  - Province
+  - Winery
+  - Variety
+  - Price
+  - Rating (Points)
+  - Designation
+  - Title
+  - Taster Name
+  - Description
+
+## Dataset Source
+
+https://mavenanalytics.io/data-playground/wine-tasting
+
+## Note
+
+The dataset is not included in this repository due to file size limitations. It can be downloaded directly from the Maven Analytics Data Playground using the link above.
+
+---
+
+**Source:** Maven Analytics – Wine Tasting Data Playground
